@@ -12,14 +12,14 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 setup(
   name = 'finschool',      
   packages = ['finschool'], 
-  version = '0.0.2',  
+  version = '0.0.3',  
   license='MIT', 
   description = 'This projects are meant for study',
   long_description=DESCRIPTION,
   author = 'Fin',                 
   author_email = 'finpunyapat66@gmail.com',     
   url = 'https://github.com/Boronium/finschool',  
-  download_url = 'https://github.com/Boronium/finschool/archive/refs/tags/v0.0.2.zip',  
+  download_url = 'https://github.com/Boronium/finschool/archive/refs/tags/v0.0.3.zip',  
   keywords = ['OOP', 'School', 'Uncle Engineer'], 
   classifiers=[
     'Development Status :: 3 - Alpha',     

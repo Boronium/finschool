@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #newschool.py
 
-import school
+import finschool.school
 from finschool.school import Student,SpecialStudent
 from finschool.school import *
 
