@@ -2,8 +2,8 @@
 #newschool.py
 
 import school
-from school import Student,SpecialStudent
-from school import *
+from finschool.school import Student,SpecialStudent
+from finschool.school import *
 
 def Test():
 	'''
